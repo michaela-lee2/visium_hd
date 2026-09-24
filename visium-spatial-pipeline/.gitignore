@@ -1,0 +1,16 @@
+# data & outputs
+*.h5ad
+*.h5
+*_figures/
+*.csv
+!requirements.txt
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store

@@ -1,0 +1,13 @@
+scanpy>=1.9
+anndata
+pandas
+numpy
+scikit-learn
+leidenalg
+igraph
+torch
+cell2location
+scvi-tools
+psutil
+matplotlib
+seaborn
